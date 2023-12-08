@@ -1,0 +1,5 @@
+Types: deb
+URIs: https://packages.adoptium.net/artifactory/deb
+Suites: bookworm 
+Components: main
+Signed-By: /usr/share/keyrings/temurin-archive-keyring.gpg
